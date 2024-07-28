@@ -1,19 +1,22 @@
-# practice01-contacts
+# Modulo 6 - Practica Vue 3
+Autor: Oscar Saravia Veizaga
 
-## Project setup
+Tabla Contacto: ID, Name, Email, Address, Phone, Country, City
+
+Requerimientos: 
+1. Listar los contactos
+2. Agregar un nuevo contacto
+3. Eliminar un contacto
+4. Editar un contacto
+5. Filtrar los contactos por nombre y/o correo electrónico
+---
+## Pasos para ejecutar el proyecto
+### Instalar las dependencias
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Ejecutar el servidor
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
